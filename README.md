@@ -24,8 +24,9 @@ Tester Internet :
 Étape 5 — Créer le snapshot “CLEAN” (baseline)
 ![Capture TP 1](etape5.png)
 
-Étape 6 — Préparer la cible Android
+Étape 6 — Préparer la cible Android/
 Option B — Émulateur (Genymotion)
+
 ![Capture TP 1](etape6.png)
 ![Capture TP 1](etape6_2.png)
 
