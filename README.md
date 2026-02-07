@@ -29,5 +29,7 @@ Option B — Émulateur (Genymotion)
 
 ![Capture TP 1](etape6.png)
 ![Capture TP 1](etape6_2.png)
+![Capture TP 1](etape6_3.png)
+
 
 
