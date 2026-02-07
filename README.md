@@ -26,5 +26,7 @@ Tester Internet :
 
 Étape 6 — Préparer la cible Android
 Option B — Émulateur (Genymotion)
+![Capture TP 1](etape6.png)
+![Capture TP 1](etape6_2.png)
 
 
